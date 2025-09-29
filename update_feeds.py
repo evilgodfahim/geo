@@ -14,7 +14,10 @@ FEEDS = [
     "https://foreignpolicy.com/feed/",
     "https://thediplomat.com/feed/",
     "https://warontherocks.com/feed/",
-    "https://www.foreignaffairs.com/rss.xml"
+    "https://www.foreignaffairs.com/rss.xml",
+    "https://original.antiwar.com/feed/",
+    "https://rss.diffbot.com/rss?url=https://www.csis.org/analysis?f%255B0%255D%3Dcontent_type%253Areport",
+    "https://www.worldpoliticsreview.com/feed/"
 ]
 
 OUTPUT_FILE = "combined.xml"
